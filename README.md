@@ -1,1 +1,1 @@
-![HSJ Technologies](https://github.com/hsjtechnologies/.github/blob/main/images/banner.png)
+![HSJ Technologies](https://github.com/hsjtechnologies/.github/blob/main/assets/banner.jpg)
